@@ -1,0 +1,1 @@
+maybe i could put my dictionaries in external files. would definitely be less cluttered in my main main.py
